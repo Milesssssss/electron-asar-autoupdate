@@ -1,0 +1,20 @@
+{
+    "name": "electron-asar-autoupdate",
+    "version": "0.0.1",
+    "description": "check update for electron app.asar file",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "electron",
+        "autoupdate",
+        "asar",
+        "update"
+    ],
+    "author": {
+        "name": "chengma",
+        "email": "tamkeelms@gmail.com"
+    },
+    "license": "ISC"
+}
